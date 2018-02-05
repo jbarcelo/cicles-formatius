@@ -21,19 +21,15 @@ https://try.github.io/
 
 === Activitat: Guia de GitHub
 
-Crea't un compte gratuït de GitHub. A la teva pàgina principal t'hauria d'aparèixer un missatge que diu:
+Crea't un compte gratuït de GitHub. 
 
-"Learn Git and GitHub without any code!
+Hi ha un llistat de guies a:	
+https://guides.github.com/
 
-Using the Hello World guide, you’ll create a repository, start a branch,
-write comments, and open a pull request. "
+Nosaltres farem la guia ``Hello World'' per a:
 
-Fes click al botó "Read the guide". Segueix la guia per a:
 * Crear un repositori.
 * Crear una branca i fer-hi un commit.
 * Crear un pull request
 * Fer un merge del pull request.
 
-Hi ha més guies a:
-
-https://guides.github.com/
