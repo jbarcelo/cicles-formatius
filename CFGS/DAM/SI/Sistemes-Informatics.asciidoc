@@ -21,5 +21,50 @@ Esbrina quina és la teva configuració de xarxa:
 
 Explica què és i per a què serveix cada un dels paràmetres de configuració: MAC, IP, NetMask, DefaultGW, DNS
 
+=== Piles de Protocols
 
+Treballeu per parelles.
 
+Explica que són la pila de protocol OSI i la pila de protocol TCP/IP. Explica amb detall cada una de les capes.
+
+Identifica i justifica a quina capa o capes pertanyen els següents elements:
+
+* Cable ethernet.
+
+* Navegador web.
+
+* Access point WiFi.
+
+* Router.
+
+* Connexió TCP.
+
+* Switch.
+
+* Proxy HTTP.
+
+* Servidor FTP.
+
+* Paquet UDP.
+
+* Protocol DNS.
+
+=== Elements d'una xarxa
+
+Treballeu per parelles.
+
+Explica amb detall cadascun dels següents elements de la xarxa
+
+* Dispositiu final o host
+* Servidor
+* Router
+* Switch
+* Punt d'accés WiFi
+* Servidor DHCP
+* Proxy
+* Servidor DNS
+* Servidor Web
+* Servidor de correu
+* Cable ethernet
+* Rack
+* Patch panel
