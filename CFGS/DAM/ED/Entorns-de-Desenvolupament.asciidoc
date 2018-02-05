@@ -18,3 +18,22 @@ Farem un treball explicant què és el control de versions, per a què serveix, 
 Aquesta web ens guiarà en una sèrie de passes bàsiques per aprendre git.
 
 https://try.github.io/ 
+
+=== Activitat: Guia de GitHub
+
+Crea't un compte gratuït de GitHub. A la teva pàgina principal t'hauria d'aparèixer un missatge que diu:
+
+"Learn Git and GitHub without any code!
+
+Using the Hello World guide, you’ll create a repository, start a branch,
+write comments, and open a pull request. "
+
+Fes click al botó "Read the guide". Segueix la guia per a:
+* Crear un repositori.
+* Crear una branca i fer-hi un commit.
+* Crear un pull request
+* Fer un merge del pull request.
+
+Hi ha més guies a:
+
+https://guides.github.com/
