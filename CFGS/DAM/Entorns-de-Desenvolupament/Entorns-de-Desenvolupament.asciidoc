@@ -19,17 +19,22 @@ Aquesta web ens guiarà en una sèrie de passes bàsiques per aprendre git.
 
 https://try.github.io/ 
 
-=== Activitat: Guia de GitHub
+=== Activitat: Guia de GitHub "Hello World"
 
 Crea't un compte gratuït de GitHub. 
 
 Hi ha un llistat de guies a:	
 https://guides.github.com/
 
-Nosaltres farem la guia ``Hello World'' per a:
+Nosaltres farem la guia "Hello World" per a:
 
 * Crear un repositori.
 * Crear una branca i fer-hi un commit.
 * Crear un pull request
 * Fer un merge del pull request.
 
+=== Activitat Fer les altre guies de GitHub
+
+=== Activitat: Fer un pull request a un repositori del professor
+
+=== Activitat: Git per Eclipse

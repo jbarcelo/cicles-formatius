@@ -3,7 +3,7 @@ Jaume Barceló Vicens
 
 == Connexió de Sistemes en Xarxa
 
-=== Configuració de Xarxa
+=== Activitat: Configuració de Xarxa
 
 Treballeu per parelles. Presenteu un únic informe consensuat amb el nom d'ambdós participants.
 
@@ -21,7 +21,7 @@ Esbrina quina és la teva configuració de xarxa:
 
 Explica què és i per a què serveix cada un dels paràmetres de configuració: MAC, IP, NetMask, DefaultGW, DNS
 
-=== Piles de Protocols
+=== Activitat: Piles de Protocols
 
 Treballeu per parelles.
 
@@ -49,7 +49,7 @@ Identifica i justifica a quina capa o capes pertanyen els següents elements:
 
 * Protocol DNS.
 
-=== Elements d'una xarxa
+=== Activitat: Elements d'una xarxa
 
 Treballeu per parelles.
 
@@ -68,3 +68,9 @@ Explica amb detall cadascun dels següents elements de la xarxa
 * Cable ethernet
 * Rack
 * Patch panel
+
+=== Recurs: Llibre obert sobre xarxes "Computer Networking: Principles Protocols and Practices"
+
+https://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
+
+
