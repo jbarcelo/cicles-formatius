@@ -11,7 +11,7 @@ https://git-scm.com/book/en/v2
 
 === Activitat: Familiarització amb el control de versions
 
-Farem un treball explicant què és el control de versions, per a què serveix, etc. Es poden posar exemples de diverents sistemes de control de versions i explicar la diferència entre els cetralitzats i els distribuïts.
+Farem un treball explicant què és el control de versions, per a què serveix, etc. Es poden posar exemples de diferents sistemes de control de versions i explicar la diferència entre els centralitzats i els distribuïts.
 
 === Recurs: Try Git
 
@@ -33,7 +33,7 @@ Nosaltres farem la guia "Hello World" per a:
 * Crear un pull request
 * Fer un merge del pull request.
 
-=== Activitat Fer les altre guies de GitHub
+=== Activitat: Fer les altres guies de GitHub
 
 === Activitat: Fer un pull request a un repositori del professor
 

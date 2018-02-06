@@ -17,7 +17,7 @@ Esbrina quina és la teva configuració de xarxa:
 
 * Default gateway: Separa la part de xarxa de la part del host. Com ha de ser la part de xarxa comparada amb la teva?
 
-* DNS: Pertany a la teva subxarxa? Què passaria si no tinguessim DNS?
+* DNS: Pertany a la teva subxarxa? Què passaria si no tinguéssim DNS?
 
 Explica què és i per a què serveix cada un dels paràmetres de configuració: MAC, IP, NetMask, DefaultGW, DNS
 
