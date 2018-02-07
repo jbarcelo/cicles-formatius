@@ -1,6 +1,51 @@
 = DAM: Sistemes Informàtics
 Jaume Barceló Vicens
 
+== Binari, Hexadecimal, Complement a 2
+
+=== Activitat: Passa els següents valors decimals a binari i hexadecimal
+
+* 0
+* 15 
+* 73
+* 128
+* 222
+* 255
+
+=== Activitat: Passa els següents valors binaris a decimal i hexadecimal
+
+* 00000000
+* 00100011
+* 10101010
+* 11111111
+
+=== Activitat: Passa els següents valors hexadecimals a binari i decimal
+
+* 0x00
+* 0xAB
+* 0x30
+* 0xFF
+
+=== Activitat: Passa de decimal a binari complement a 2.
+
+* -128
+* -33
+* -32
+* -31
+* -1
+* 0
+* 54
+* 127
+
+=== Activitat: Passa de binari complement a 2 a decimal.
+
+* 01010101
+* 00000000
+* 00000011
+* 11111100
+* 10000000
+* 10111111
+
 == Connexió de Sistemes en Xarxa
 
 === Activitat: Configuració de Xarxa
