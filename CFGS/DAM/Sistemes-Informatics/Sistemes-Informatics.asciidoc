@@ -113,6 +113,8 @@ Explica amb detall cadascun dels següents elements de la xarxa
 * Cable ethernet
 * Rack
 * Patch panel
+* NAS
+* Firewall
 
 === Recurs: Llibre obert sobre xarxes "Computer Networking: Principles Protocols and Practices"
 
