@@ -1,4 +1,4 @@
-= DAW: Entorns de Desenvolupament
+= DAM: Entorns de Desenvolupament
 Jaume Barceló Vicens
 
 == Control de versions
@@ -33,7 +33,13 @@ Nosaltres farem la guia "Hello World" per a:
 * Crear un pull request
 * Fer un merge del pull request.
 
-=== Activitat: Fer les altres guies de GitHub
+=== Activitat: Fer un "Pull Request"
+
+Fer un "pull request" sobre el repositori
+
+https://github.com/jbarcelo/DAM-ED-gitexercise
+
+canviant la línia que conté el vostre nom.
 
 === Activitat: Fer un pull request a un repositori del professor
 
