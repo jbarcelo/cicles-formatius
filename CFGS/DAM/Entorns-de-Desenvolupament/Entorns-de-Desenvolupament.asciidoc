@@ -41,6 +41,4 @@ https://github.com/jbarcelo/DAM-ED-gitexercise
 
 canviant la línia que conté el vostre nom.
 
-=== Activitat: Fer un pull request a un repositori del professor
-
 === Activitat: Git per Eclipse
