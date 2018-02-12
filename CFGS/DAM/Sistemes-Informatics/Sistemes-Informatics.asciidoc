@@ -75,24 +75,20 @@ Explica que són la pila de protocol OSI i la pila de protocol TCP/IP. Explica a
 Identifica i justifica a quina capa o capes pertanyen els següents elements:
 
 * Cable ethernet.
-
 * Navegador web.
-
 * Access point WiFi.
-
 * Router.
-
 * Connexió TCP.
-
 * Switch.
-
 * Proxy HTTP.
-
 * Servidor FTP.
-
 * Paquet UDP.
-
 * Protocol DNS.
+* Protocol ARP.
+* Protocol IP.
+
+
+Fes una captura amb Wireshark i busca protocols de les capes d'aplicació, transport, xarxa i enllaç.
 
 === Activitat: Elements d'una xarxa
 
