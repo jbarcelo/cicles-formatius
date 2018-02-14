@@ -66,6 +66,10 @@ Esbrina quina és la teva configuració de xarxa:
 
 Explica què és i per a què serveix cada un dels paràmetres de configuració: MAC, IP, NetMask, DefaultGW, DNS
 
+=== Activitat: Subnetting
+
+Una empresa reb un assignament de IPs igual a la xarxa 3.3.3.0/27 i vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir dos hosts i la tercera 6 hosts. Reparteix el rand de IPs indicant adreces de xarxa, adreces de broadcast i adreces IP de cada host. Indicau també les IPs del default GW.
+
 === Activitat: Piles de Protocols
 
 Treballeu per parelles.
