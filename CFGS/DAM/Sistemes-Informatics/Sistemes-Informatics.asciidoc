@@ -68,7 +68,11 @@ Explica què és i per a què serveix cada un dels paràmetres de configuració:
 
 === Activitat: Subnetting
 
-Una empresa reb un assignament de IPs igual a la xarxa 3.3.3.64/27 i vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir dos hosts i la tercera 6 hosts. Reparteix el rand de IPs indicant adreces de xarxa, adreces de broadcast i adreces IP de cada host. Indicau també les IPs del default GW.
+* Una empresa reb un assignament de IPs igual a la xarxa 3.3.3.64/27 i vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir dos hosts i la tercera 6 hosts. Reparteix el rang d'IPs indicant adreces de xarxa, adreces de broadcast i adreces IP de cada host. Indicau també les IPs del default GW.
+
+* Una organització amb un rang assignat igual a 3.3.3.192/27 vol crear quatre subxarxes iguals. Indica les adreces d'aquestes xarxes, la màscara i quants dispositius podran allotjar.
+
+* Una organització amb un rang assignat itual a 3.3.3.224/28 vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir 1 host i la tercera 2 hosts. Reparteix el rang d'IPs indicant adreces de xarxa, adreces de broadcast i adreces IP de cada host. Indicau també les IPs del default GW.
 
 === Activitat: Piles de Protocols
 
