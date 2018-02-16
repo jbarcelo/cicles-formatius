@@ -124,4 +124,10 @@ Explica amb detall cadascun dels següents elements de la xarxa
 
 https://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
 
+=== Recurs: Pàgines web de Oracle Java sobre la connexió a la xarxa
+
+https://docs.oracle.com/javase/tutorial/networking/overview/networking.html
+
+https://docs.oracle.com/javase/tutorial/networking/sockets/index.html
+
 
