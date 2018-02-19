@@ -41,4 +41,35 @@ https://github.com/jbarcelo/DAM-ED-gitexercise
 
 canviant la línia que conté el vostre nom.
 
+=== Activitat: Documentar els rols de integrador/mantenidor de programari i desenvolupador/contribuidor.
+ 
+Per parelles flexibles documentar tot el procés de control de versions realitzat tant pel responsable de mantenir el software i integrar canvis com pel programador que fa una contribució. Concretant:
+
+* Integrador: Crea un repositori i hi afegeix commits.
+* Integrador: Puja el repositori a github.
+* Programador: Fa un fork al repositori.
+* Programador: Clona el seu fork per tenir una còpia local sobre la que treballar.
+* Programador: Afegeix el repo de l'integrador com a "remote" "upstream".
+* Programador: Crea una branca local en la que treballar.
+* Programador: Fa canvis i commits sobre la seva branca.
+* Integrador: Afegeix canvis que són conflictius amb els del programador en la seva còpia local.
+* Integrador: Puja els canvis al seu repositori a github.
+* Programador: Obté els commits de l'integrador fent un "fetch". Posteriorment fa un merge d'aquests canvis sobre la seva branca de referència "master".
+* Programador: Fa un rebase de la seva feina sobre la branca de referència.
+* Programador: Resol els conflictes.
+* Programador: Puja la branca master actualitzada i la seva branca de treball al seu repositori de github.
+* Programador: Fa un pull request de la seva branca de treball sobre la branca de referència de l'integrador.
+* Integrador: Rep el pull request.
+* Integrador: Afegeix el repositori de github del programador com a repositori remot.
+* Integrador: Fa una còpia local de la branca de treball del programador (fetch).
+* Integrador: Examina prova la feina del programador.
+* Integrador: Fa un merge de la feina del programador sobre la seva branca master.
+* Integrador: Fa un push de la seva branca master al repositori a github.
+* Integrador: Borra la seva còpia local de la branca de treball del programador (els canvis ja estan integrats a master).
+* Programador: Fa un fetch de la branca master del repositori de l'integrador a github, que ara conté els seus propis canvis.
+* Programador: Fa un merge de la branca master de upstream sobre la seva branca master local, ,incorporant els seus propis canvis.
+* Programador: Fa un push al seu github de la branca master actualitzada.
+* Programador: Borra la seva branca de treball local ja que els canvis ja estan integrats a master.
+* Programador: Borra la seva branca de treball a github, ja que els canvis ja estan integrats a master.
+
 === Activitat: Git per Eclipse
