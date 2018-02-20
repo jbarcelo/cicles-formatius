@@ -72,4 +72,26 @@ Per parelles flexibles documentar tot el procés de control de versions realitza
 * Programador: Borra la seva branca de treball local, ja que els canvis ja estan integrats a master.
 * Programador: Borra la seva branca de treball a github, ja que els canvis ja estan integrats a master.
 
+=== Activitat: Aspectes de git
+
+Saps en quin context feim servir les següents comandes?
+
+* git init
+* git diff
+* git add
+* git status
+* git commit
+* git log
+* git branch
+* git checkout
+* git merge
+* git rebase
+* git remote
+* git push
+* git fetch
+* git clone
+* git reset
+* git commit --amend
+* git tag
+
 === Activitat: Git per Eclipse
