@@ -4,5 +4,5 @@ Jaume Barceló Vicens
 === 20180221
 
 * Acabar allò que ahir vàrem deixar a mitges. Faltava fer el `git push origin master` i el 'pull request'.
-* Entre tots, fer un document que detalli tot el procés que vàrem realitzar ahir.
+* Entre tots, fer un document que detalli tot el procés que vàrem realitzar ahir. https://docs.google.com/document/d/1s3GErY77BSrGNHkBc7JbGvyYX2hAOdFijV4WV8WNtqk/edit
 * Explicar `git rebase`. 
