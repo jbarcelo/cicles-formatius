@@ -1,0 +1,8 @@
+= DAW: Entorns de Desenvolupament, Diari de Classe
+Jaume Barceló Vicens
+
+=== 20180221
+
+* Acabarem allò que ahir vàrem deixar a mitges. Faltava fer el `git push origin master` i el 'pull request'.
+* Entre tots, podem fer un document que detalli tot el procés.
+* Explicar `git rebase`. 

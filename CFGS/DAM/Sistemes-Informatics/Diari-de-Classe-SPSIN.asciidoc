@@ -1,4 +1,4 @@
-= DAM: Entorns de Desenvolupament, Diari de Classe
+= DAM: Sistemes Informàtics, Diari de Classe
 Jaume Barceló Vicens
 
 === 20180221
