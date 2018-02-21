@@ -4,5 +4,6 @@ Jaume Barceló Vicens
 === 20180221
 
 * Pujar canvis del repositori local amb `git push`.
-* Seguir un repositori remot amb `git fetch` i `git merge`.
+* Seguir un repositori remot amb `git remomte`, `git fetch` i `git merge`.
+* Per algunes coses necessitaré l'ajuda d'un voluntari que assumeixi un rol per tal que jo n'assumeixi un altre.
 * Com fer un 'fork' i un 'pull request'.
