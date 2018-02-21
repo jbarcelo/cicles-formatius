@@ -1,0 +1,8 @@
+= DAM: Entorns de Desenvolupament, Diari de Classe
+Jaume Barceló Vicens
+
+=== 20180221
+
+* TCP vs UDP. Avantatges/inconvenients. Quan fem servir un i quan fem servir l'altre.
+* Explicar presentació.
+* Acabar l'exercici de piles de protocols.
