@@ -10,5 +10,9 @@ Jaume Barceló Vicens
 
 === 20180222
 
+* Estan corregits exercici de subnetting. 2 persones ho han tengut perfecte. Hi ha molts conceptes que encara no estan clars.
+* Cal treballar un poc més el tema fins que tothom (o la gran majoria) el tengui clar.
+* Preguntes subnetting.
+* Corregir treball subnetting.
 * Elegir quin treball voleu fer primer: capa física (cablejat estructurat) o capa d'aplicació (servidor d'acudits dolents)
 * Acabar d'explicar diapositives. Xarxes sense fils.

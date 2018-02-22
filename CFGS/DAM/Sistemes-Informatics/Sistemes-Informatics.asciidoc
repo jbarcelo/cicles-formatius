@@ -74,6 +74,17 @@ Explica què és i per a què serveix cada un dels paràmetres de configuració:
 
 * Una organització amb un rang assignat itual a 3.3.3.224/28 vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir 1 host i la tercera 2 hosts. Reparteix el rang d'IPs indicant adreces de xarxa, adreces de broadcast i adreces IP de cada host. Indicau també les IPs del default GW.
 
+=== Recurs: Preguntes sobre subnetting
+
+* Calcular tots els valors possibles d'un byte d'una màscara de xarxa.
+* Calcular quantes /29 podem fer amb una /27 i altres situacions semblants.
+* És possible que existeixi una *xarxa* 10.10.10.74/28? Per què? Considerar altres situacions semblants.
+
+=== Activitat: Subnetting 2
+
+* Una organització amb un rang assignat itual a 3.3.3.128/26 vol crear 3 xarxes diferents. Dues d'aquestes xarxes han de tenir 10 hosts i la tercera 20 hosts. Reparteix el rang d'IPs indicant adreces de xarxa, adreces de broadcast i adreces dels default gw.
+
+
 === Activitat: Piles de Protocols
 
 Treballeu per parelles.
