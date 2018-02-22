@@ -7,3 +7,8 @@ Jaume Barceló Vicens
 * TCP vs UDP. Avantatges/inconvenients. Quan fem servir un i quan fem servir l'altre.
 * Explicar presentació.
 * Acabar l'exercici de piles de protocols.
+
+=== 20180222
+
+* Elegir quin treball voleu fer primer: capa física (cablejat estructurat) o capa d'aplicació (servidor d'acudits dolents)
+* Acabar d'explicar diapositives. Xarxes sense fils.

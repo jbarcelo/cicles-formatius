@@ -93,5 +93,8 @@ Saps en quin context feim servir les següents comandes?
 * git reset
 * git commit --amend
 * git tag
+* git stash
 
 === Activitat: Git per Eclipse
+
+Documentar els rols d'integrador/mantenidor de programari i desenvolupador/contribuent fent servir eclipse.

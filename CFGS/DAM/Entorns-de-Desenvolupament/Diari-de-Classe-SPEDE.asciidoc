@@ -6,5 +6,10 @@ Jaume Barceló Vicens
 * Pujar canvis del repositori local amb `git push`.
 * Seguir un repositori remot amb `git remomte`, `git fetch` i `git merge`.
 * Per algunes coses necessitaré l'ajuda d'un voluntari que assumeixi un rol per tal que jo n'assumeixi un altre.
-* Com fer un 'fork' i un 'pull request'.
 * Fer un document guia de les tasques i les comandes https://docs.google.com/document/d/1ym8XT232CVlBjwPJywKqwC_wnSAycLO85CFAei6jQOw/edit
+
+
+=== 20180221
+
+* Decidir data prova Entorns.
+* Com fer un 'fork' i un 'pull request'.
