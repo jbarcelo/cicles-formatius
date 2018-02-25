@@ -135,6 +135,20 @@ Explica amb detall cadascun dels següents elements de la xarxa
 
 https://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf
 
+=== Activitat: Cablejat estructurat
+
+Els edificis d'oficines disposen de cablejat per a suportar la xarxa de dades. Investiga què és el cablejat estructurat considerant aspectes com els següent.
+
+* Tipus de cables, categories.
+* Fibra monomode i fibra multimode.
+* Diferents habitacions tècniques que trobem en el cablejat estructurat i la seva funcionalitat.
+* Cablejat horitzontal.
+* Cablejat vertical/backbone.
+* Distàncies.
+* Patch panel. Explicar per què és tan important.
+* Rack. Espai de rack. "U", "2U", etc.
+* Power over Ethernet.
+
 === Activitat: Connexió a xarxa amb java
 
 Llegeix l'overview:
