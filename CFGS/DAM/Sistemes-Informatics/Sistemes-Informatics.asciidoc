@@ -146,3 +146,30 @@ I el tutorial de sockets:
 https://docs.oracle.com/javase/tutorial/networking/sockets/index.html
 
 Prova el client i el servidor d'acudits. Prova també el servidor multithread amb diferents clients de manera simultània.
+
+=== Activitat: Crear una NAT-network a virtualbox
+
+Explora i explica les diferents maneres en què es pot connectar a la xarxa una màquina virtual virtualbox.
+
+Creus que podrem connectar la nostra màquina en mode bridge a la xarxa de classe que autentica únicament adreces MAC conegudes?
+
+Connecta dues màquines virtuals en mode NAT-network. Comprova la connexió a internet i les adreces que assigna el DHCP server. Jo he hagut de crear la xarxa amb les següents instruccions:
+
+(Vist a https://jekewa.com/blogs/index.php/weBlog/2014/01/09/virtualbox-4-3-adds-nat)
+
+    VBoxManage natnetwork add \
+    --netname 10.20.14-NAT \
+    --network "10.20.14.0/24" \
+    --enable
+
+    VBoxManage dhcpserver add \
+    --netname 10.20.14-NAT \
+    --ip 10.20.14.3 \
+    --netmask 255.255.255.0 \
+    --lowerip 10.20.14.200 \
+    --upperip 10.20.14.250 \
+    --enable
+
+=== Activitat: Canviar firewall de Windows 10
+
+=== Activitat: Compartir una carpeta a Windows 10
