@@ -15,4 +15,9 @@ Jaume Barceló Vicens
 * Preguntes subnetting.
 * Corregir treball subnetting.
 * Elegir quin treball voleu fer primer: capa física (cablejat estructurat) o capa d'aplicació (servidor d'acudits dolents)
+* Explicar diapositives. Xarxes sense fils.
+
+=== 20180226
+
 * Acabar d'explicar diapositives. Xarxes sense fils.
+* Fer activitat de cablejat estructurat.
