@@ -109,6 +109,7 @@ Entendre les diferències entre
 Entendre com afecten git add i git commit a aquestes tres coleccions.
 
 Entendre git reset.
+
 * soft
 * mixed
 * hard
@@ -121,3 +122,5 @@ https://www.youtube.com/watch?v=SsoOG6ZeyUI
 
 * Spaces vs Tabs
 * Vi vs EMACS
+
+Recull informació de cada una de les parts de la discussió de "spaces vs tabs" i exposa el teu punt de vista. Explica per quin motius el més important és la consistència i que tots els col·laboradors d'un mateix projecte es posin d'acord en fer-ho de la mateixa manera.
