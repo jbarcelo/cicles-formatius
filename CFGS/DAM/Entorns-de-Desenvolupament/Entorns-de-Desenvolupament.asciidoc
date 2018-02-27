@@ -98,3 +98,26 @@ Saps en quin context feim servir les següents comandes?
 === Activitat: Git per Eclipse
 
 Documentar els rols d'integrador/mantenidor de programari i desenvolupador/contribuent fent servir eclipse.
+
+=== Activitat: Working directory, index, HEAD
+
+Entendre les diferències entre 
+* "working directory" estat actual dels arxius
+* "index" o "staging area" on hi ha els canvis que s'inclouran en el proper commit
+* HEAD apunta al commit que serà el pare del següent commit
+
+Entendre com afecten git add i git commit a aquestes tres coleccions.
+
+Entendre git reset.
+* soft
+* mixed
+* hard
+
+=== Activitat: Holy Wars
+
+Entendre que hi ha alternatives i disjuntives que han provocat discusions inacabables.
+
+https://www.youtube.com/watch?v=SsoOG6ZeyUI
+
+* Spaces vs Tabs
+* Vi vs EMACS
