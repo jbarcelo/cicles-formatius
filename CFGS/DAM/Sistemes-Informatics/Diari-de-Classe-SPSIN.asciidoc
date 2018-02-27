@@ -19,5 +19,6 @@ Jaume Barceló Vicens
 
 === 20180226
 
+* Discussió sobre contrasenyes segures. https://www.xkcd.com/936/
 * Acabar d'explicar diapositives. Xarxes sense fils.
 * Fer activitat de cablejat estructurat.
