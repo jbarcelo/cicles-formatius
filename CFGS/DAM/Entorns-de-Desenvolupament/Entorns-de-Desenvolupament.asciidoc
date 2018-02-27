@@ -114,6 +114,11 @@ Entendre git reset.
 * mixed
 * hard
 
+=== Activitat: Signa els teus commits amb GPG
+
+Segueix les instruccions de github https://help.github.com/articles/signing-commits-with-gpg/ per signar els teus commits amb gpg i que apareguin com a "verified" a github.
+
+
 === Activitat: Holy Wars
 
 Entendre que hi ha alternatives i disjuntives que han provocat discusions inacabables.
