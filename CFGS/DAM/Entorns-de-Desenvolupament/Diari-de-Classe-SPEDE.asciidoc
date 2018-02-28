@@ -9,7 +9,7 @@ Jaume Barceló Vicens
 * Fer un document guia de les tasques i les comandes https://docs.google.com/document/d/1ym8XT232CVlBjwPJywKqwC_wnSAycLO85CFAei6jQOw/edit
 
 
-=== 20180221
+=== 20180228
 
 * Decidir data prova Entorns.
 * Com fer un 'fork' i un 'pull request'.

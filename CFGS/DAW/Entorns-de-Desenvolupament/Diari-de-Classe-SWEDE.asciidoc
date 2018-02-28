@@ -12,5 +12,9 @@ Jaume Barceló Vicens
 * Decidir dia per fer una prova.
 * Neteja de branques i incorporació dels nostres propis canvis a partir del repositori upstream.
 * Integració del pull request fent primer una còpia local on poder testejar els canvis.
+
+=== 20180228
+
 * Explicar `git rebase`. 
+
 
