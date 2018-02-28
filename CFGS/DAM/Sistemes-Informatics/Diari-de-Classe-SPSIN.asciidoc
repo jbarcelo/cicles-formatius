@@ -24,6 +24,7 @@ Jaume Barceló Vicens
 
 === 20180227
 
+* Corregits exercicis de pila de protocols
 * Prova 
 * Correcció de la prova
 * Fer activitat de cablejat estructurat.
