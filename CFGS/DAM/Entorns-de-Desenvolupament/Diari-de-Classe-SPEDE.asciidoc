@@ -7,9 +7,12 @@ Jaume Barceló Vicens
 * Seguir un repositori remot amb `git remomte`, `git fetch` i `git merge`.
 * Per algunes coses necessitaré l'ajuda d'un voluntari que assumeixi un rol per tal que jo n'assumeixi un altre.
 * Fer un document guia de les tasques i les comandes https://docs.google.com/document/d/1ym8XT232CVlBjwPJywKqwC_wnSAycLO85CFAei6jQOw/edit
+* Decidir data prova Entorns.
+* Com fer un 'fork' i un 'pull request'.
 
 
 === 20180228
 
-* Decidir data prova Entorns.
-* Com fer un 'fork' i un 'pull request'.
+* Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.
+
+
