@@ -137,6 +137,8 @@ https://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Princ
 
 === Activitat: Cablejat estructurat
 
+Treballarem en grups de una, dues o tres persones.
+
 Els edificis d'oficines disposen de cablejat per a suportar la xarxa de dades. Investiga què és el cablejat estructurat considerant aspectes com els següent.
 
 * Tipus de cables, categories.
@@ -148,6 +150,8 @@ Els edificis d'oficines disposen de cablejat per a suportar la xarxa de dades. I
 * Patch panel. Explicar per què és tan important.
 * Rack. Espai de rack. "U", "2U", etc.
 * Power over Ethernet.
+
+Detalla quines són les fonts d'informació que has fet servir.
 
 === Activitat: Connexió a xarxa amb java
 
