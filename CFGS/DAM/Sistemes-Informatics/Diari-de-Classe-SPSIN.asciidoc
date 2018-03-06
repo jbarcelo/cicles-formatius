@@ -26,5 +26,11 @@ Jaume Barceló Vicens
 
 * Corregits exercicis de pila de protocols
 * Prova 
+
+=== 20180227
+
+* En Jaume m'ha dit que va millorant i que espera reincorporar-se les pròximes setmanes.
+* Em falta algun exercici de pila de protocols.
 * Correcció de la prova
+* Quan fem la recuperació?
 * Fer activitat de cablejat estructurat.

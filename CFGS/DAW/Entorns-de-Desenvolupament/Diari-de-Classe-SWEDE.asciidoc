@@ -17,4 +17,9 @@ Jaume Barceló Vicens
 
 * Explicar `git rebase`. 
 
+=== 20180306
+
+* En Jaume em va dir que anava millorant i esperava reincorporar-se les properes setmanes.
+* Fer Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent
+
 
