@@ -20,6 +20,7 @@ Jaume Barceló Vicens
 === 20180306
 
 * En Jaume em va dir que anava millorant i esperava reincorporar-se les properes setmanes.
+* Recordatori prova dimarts 13.
 * Fer Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent
 
 
