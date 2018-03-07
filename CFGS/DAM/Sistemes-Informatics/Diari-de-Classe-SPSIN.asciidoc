@@ -34,3 +34,8 @@ Jaume Barceló Vicens
 * Correcció de la prova
 * Quan fem la recuperació?
 * Fer activitat de cablejat estructurat.
+
+=== 20180307
+
+* Recuperació dijous dia 4.
+* Activitat: Connexió a xarxa amb java.

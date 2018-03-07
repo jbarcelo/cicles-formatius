@@ -23,4 +23,6 @@ Jaume Barceló Vicens
 * Recordatori prova dimarts 13.
 * Fer Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent
 
+=== 20180307
 
+* Fer Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent
