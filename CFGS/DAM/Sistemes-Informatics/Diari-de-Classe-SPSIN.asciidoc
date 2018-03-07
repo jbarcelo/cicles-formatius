@@ -38,4 +38,5 @@ Jaume Barceló Vicens
 === 20180307
 
 * Recuperació dijous dia 4.
+* Si feu una entrega fora de termini, si us plau notifiqueu-me per correu per a que jo sàpiga que la tinc pendent de corregir.
 * Activitat: Connexió a xarxa amb java.
