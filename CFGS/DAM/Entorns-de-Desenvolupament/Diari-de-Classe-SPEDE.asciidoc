@@ -18,3 +18,7 @@ Jaume Barceló Vicens
 === 20180307
 
 * Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.
+
+=== 20180308
+
+* Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.

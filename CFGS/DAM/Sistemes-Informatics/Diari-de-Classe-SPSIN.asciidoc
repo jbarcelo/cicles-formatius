@@ -37,6 +37,12 @@ Jaume Barceló Vicens
 
 === 20180307
 
-* Recuperació dijous dia 4.
+* Recuperació dijous dia 8.
 * Si feu una entrega fora de termini, si us plau notifiqueu-me per correu per a que jo sàpiga que la tinc pendent de corregir.
+* Activitat: Connexió a xarxa amb java.
+
+=== 20180307
+
+* Recuperació dijous dia 8.
+* Dia de la dona: Preparar i fer una presentació sobre una dona que hagi fet una contribució remarcable al món de la informàtica. Per exemple, Ada Byron, Joanna Rutkowska. Busqueu algú que penseu que ha fet una feina interessant per presentar-la als companys.
 * Activitat: Connexió a xarxa amb java.
