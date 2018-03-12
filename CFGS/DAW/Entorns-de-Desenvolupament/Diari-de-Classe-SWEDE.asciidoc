@@ -26,3 +26,7 @@ Jaume Barceló Vicens
 === 20180307
 
 * Fer Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent
+
+=== 20180313
+
+* Prova de sistemes de control de versions. Segur que no és millor fer-la dia 20?

@@ -46,3 +46,7 @@ Jaume Barceló Vicens
 * Recuperació dijous dia 8.
 * Dia de la dona: Preparar i fer una presentació sobre una dona que hagi fet una contribució remarcable al món de la informàtica. Per exemple, Ada Byron, Joanna Rutkowska. Busqueu algú que penseu que ha fet una feina interessant per presentar-la als companys.
 * Activitat: Connexió a xarxa amb java.
+
+=== 20180313
+
+* Activitat: Connexió a xarxa amb java.
