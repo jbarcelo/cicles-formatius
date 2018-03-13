@@ -165,6 +165,10 @@ https://docs.oracle.com/javase/tutorial/networking/sockets/index.html
 
 Prova el client i el servidor d'acudits. Prova també el servidor multithread amb diferents clients de manera simultània.
 
+* Crea el teu propi servei a Internet fent servir un servidor multi-thread.
+* Fes servir git per al desenvolupament.
+* Aquesta part es pot fer en grups d'una, dues o tres persones.
+
 === Activitat: Crear una NAT-network a virtualbox
 
 Explora i explica les diferents maneres en què es pot connectar a la xarxa una màquina virtual virtualbox.
