@@ -30,3 +30,8 @@ Jaume Barceló Vicens
 === 20180313
 
 * Prova de sistemes de control de versions. Segur que no és millor fer-la dia 20?
+
+=== 20180314
+
+* La prova ha anat bé. La setmana que ve donaré els resultats.
+* Avui tenim l'opció de veure in video de repàs que hem vist amb l'altre grup o bé començar l'activitat de signar commits amb gpg o bé l'activitat de documentar els rols d'integrador i desenvolupador fent servir eclipse.

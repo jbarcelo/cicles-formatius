@@ -50,3 +50,7 @@ Jaume Barceló Vicens
 === 20180313
 
 * Activitat: Connexió a xarxa amb java.
+
+=== 20180314
+
+* Activitat: Connexió a xarxa amb java.

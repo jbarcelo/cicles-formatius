@@ -167,6 +167,7 @@ Prova el client i el servidor d'acudits. Prova també el servidor multithread am
 
 * Crea el teu propi servei a Internet fent servir un servidor multi-thread.
 * Fes servir git per al desenvolupament.
+* Publica el teu projecte a github. Inclou un `README.md` explicatiu.
 * Aquesta part es pot fer en grups d'una, dues o tres persones.
 
 === Activitat: Crear una NAT-network a virtualbox
