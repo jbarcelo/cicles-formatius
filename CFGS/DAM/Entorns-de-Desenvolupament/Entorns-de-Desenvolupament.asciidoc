@@ -9,6 +9,10 @@ Aquest llibre en anglès conté tot el que necessitem per aprendre git.
 
 https://git-scm.com/book/en/v2
 
+=== Link tutorial Git ULTRAFAST!
+
+https://www.youtube.com/watch?v=Uw8SIaAK-vw
+
 === Activitat: Familiarització amb el control de versions
 
 Farem un treball per parelles flexibles (d'1, 2 o 3)  explicant què és el control de versions, per a què serveix, etc. Es poden posar exemples de diferents sistemes de control de versions i explicar la diferència entre els centralitzats i els distribuïts.
