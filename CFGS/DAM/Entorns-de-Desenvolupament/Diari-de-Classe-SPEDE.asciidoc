@@ -22,3 +22,14 @@ Jaume Barceló Vicens
 === 20180308
 
 * Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.
+
+=== 20180314
+
+* Video explicatiu de git.
+* Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.
+
+=== 20180315
+
+* Prova de control de versions.
+* Correcció prova.
+* Activitat: Documentar els rols d’integrador/mantenidor de programari i desenvolupador/contribuent.
