@@ -55,7 +55,7 @@ Jaume Barceló Vicens
 
 * Activitat: Connexió a xarxa amb java.
 
-=== 20180314
+=== 20180315
 
 * Activitat: Connexió a xarxa amb java.
 * Recordeu incloure un fitxer README.md explicatiu. L'entrega ha de ser simplement un enllaç al repositori de github. Les instruccions per a l'usuari i la documentació relativa al desenvolupament ha de ser a l'arxiu README.md 
