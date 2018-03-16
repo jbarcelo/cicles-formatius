@@ -170,6 +170,32 @@ Prova el client i el servidor d'acudits. Prova també el servidor multithread am
 * Publica el teu projecte a github. Inclou un `README.md` explicatiu.
 * Aquesta part es pot fer en grups d'una, dues o tres persones.
 
+=== Activitat: Pesentació del servei en xarxa
+
+* Prepara una presentació de 5 minuts sobre el teu servei en xarxa.
+* La primera part va dirigida als usuaris del servei.
+* La segona part va dirigida al personal tècnic.
+* Presenta el teu servei als teus companys de classe.
+
+=== Activitat: Eines de xarxa
+
+Descriu les següents utilitats de xarxa
+
+* ping
+* dig / nslookup
+* netstat / ss
+* ifconfig
+* tcpdump
+* wireshark
+* ngrep
+* traceroute / mtr
+* nc
+* nftables / iptables
+* ethtool
+* ip
+* tc
+* arp 
+
 === Activitat: Crear una NAT-network a virtualbox
 
 Explora i explica les diferents maneres en què es pot connectar a la xarxa una màquina virtual virtualbox.
