@@ -196,6 +196,13 @@ Descriu les següents utilitats de xarxa
 * tc
 * arp 
 
+=== Activitat: Backup amb rsync
+
+* Fes un backup entre dos directoris del teu sistema d'arxius.
+* Fes un backup entre dos equips en xarxa. Pots fer servir una màquina virtual.
+* Fes un backup en xarxa fent servir un parell de claus privada i pública per ssh.
+* Programa un crontab per a que faci un backup a una determinada hora.
+
 === Activitat: Crear una NAT-network a virtualbox
 
 Explora i explica les diferents maneres en què es pot connectar a la xarxa una màquina virtual virtualbox.
