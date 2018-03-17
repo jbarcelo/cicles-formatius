@@ -179,7 +179,7 @@ Prova el client i el servidor d'acudits. Prova també el servidor multithread am
 
 === Activitat: Eines de xarxa
 
-Descriu les següents utilitats de xarxa
+Descriurem les següents utilitats de xarxa
 
 * ping
 * dig / nslookup
@@ -198,14 +198,14 @@ Descriu les següents utilitats de xarxa
 
 === Activitat: Backup programat entre servidors en xarxa amb rsync i ssh
 
-* Fes un backup entre dos directoris del teu sistema d'arxius. `rsync -av --delete directori1 directori2`. Esbrina què signinica cada un dels flags.
-* Fes un login remot amb `ssh usuari@equip`. Pots instal·lar un servidor ssh en una màquina virtual linux per connectar-t'hi.
-* Fes un backup entre dos equips en xarxa. `rsync -av --delete directori1 usuari@equip:directori2`. 
-* Crear un parell de claus pública/privada per a connexions ssh. `ssh-keygen -t rsa`
-* Instal·la la teva clau pública en el servidor. `ssh-copy-id usuari@equip`
-* Fes una connexió ssh de prova.
-* Fes un backup en xarxa fent servir un parell de claus privada i pública per ssh.
-* Programa un crontab per a que faci un backup a una determinada hora. Comprova que la còpia realment s'actualitza a l'hora fixada.
+* Farem un backup entre dos directoris del teu sistema d'arxius. `rsync -av --delete directori1 directori2`. Esbrina què significa cada un dels flags.
+* Farem un login remot amb `ssh usuari@equip`. Pots instal·lar un servidor ssh en una màquina virtual linux per connectar-t'hi.
+* Farem un backup entre dos equips en xarxa. `rsync -av --delete directori1 usuari@equip:directori2`. 
+* Crearem un parell de claus pública/privada per a connexions ssh. `ssh-keygen -t rsa`
+* Instal·larem la teva clau pública en el servidor. `ssh-copy-id usuari@equip`
+* Farem una connexió ssh de prova.
+* Farem un backup en xarxa fent servir un parell de claus privada i pública per ssh.
+* Programarem un crontab perquè faci un backup a una determinada hora. Comprovarem que la còpia realment s'actualitza a l'hora fixada. Per editar el crontab farem servir `crontab -e`
 
 === Activitat: Crear una NAT-network a virtualbox
 
