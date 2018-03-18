@@ -11,8 +11,9 @@ https://git-scm.com/book/en/v2
 
 === Link tutorial Git ULTRAFAST!
 
-https://www.youtube.com/watch?v=Uw8SIaAK-vw
-https://www.youtube.com/watch?v=udughzlN5M4
+* https://www.youtube.com/watch?v=QGKTdL7GG24
+
+* https://www.youtube.com/watch?v=udughzlN5M4
 
 === Activitat: Familiarització amb el control de versions
 
