@@ -35,3 +35,11 @@ Jaume Barceló Vicens
 
 * La prova ha anat bé. La setmana que ve donaré els resultats.
 * Avui tenim l'opció de veure in video de repàs que hem vist amb l'altre grup o bé començar l'activitat de signar commits amb gpg o bé l'activitat de documentar els rols d'integrador i desenvolupador fent servir eclipse.
+
+=== 20180320
+
+* Les notes ja estan posades.
+* Em falta alguna entrega? Amador? No l'has enviada o no l'he vista?
+* Comprovar que les notes estan bé.
+* Avui és el meu darrer dia de classe. Demà s'incorpora en Jaume Pericàs.
+* Coses que podem explorar avui: signatura de commits amb PGP, git a eclipse, space vs tabs.

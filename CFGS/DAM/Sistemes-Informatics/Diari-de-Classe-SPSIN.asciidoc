@@ -59,3 +59,9 @@ Jaume Barceló Vicens
 
 * Activitat: Connexió a xarxa amb java.
 * Recordeu incloure un fitxer README.md explicatiu. L'entrega ha de ser simplement un enllaç al repositori de github. Les instruccions per a l'usuari i la documentació relativa al desenvolupament ha de ser a l'arxiu README.md 
+
+=== 20180320
+
+* Les notes ja estan posades. Cal comprovar que tot estigui bé.
+* Avui és el meu darrer dia de classe amb vosaltres. Demà ja s'incorpora en Jaume Pericàs.
+* Aprofiteu per avançar tant com pogueu en el desenvolupament del vostre servei en xarxa i me l'envieu tal com estigui. És igual si no està acabat. Jo tindré en compte el poc temps que heu tingut per a realitzar-la.
