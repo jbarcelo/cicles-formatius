@@ -11,4 +11,5 @@ Jaume Barceló Vicens
   - Per què us agrada la informàtica
   - Què sabeu d'aplicacions ofimàtiques i multimèdia
 * Activitat avançada: Crear un document conjunt que reculli tota la informació parlada a classe.
+* Activitat avançada 2: Incloure una foto de cadascú en el document.
 
