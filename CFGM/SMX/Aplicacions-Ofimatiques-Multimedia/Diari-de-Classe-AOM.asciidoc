@@ -1,0 +1,14 @@
+= AOM Aplicacions Ofimàtiques i Multimèdia, Diari de Classe
+Jaume Barceló Vicens
+
+=== 20180924
+
+* Presentació del professor
+* Llista i presentació dels alumnes
+  - D'on sou
+  - On viviu
+  - Què heu estudiat i on
+  - Per què us agrada la informàtica
+  - Què sabeu d'aplicacions ofimàtiques i multimèdia
+* Activitat avançada: Crear un document conjunt que reculli tota la informació parlada a classe.
+
