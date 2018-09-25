@@ -1,7 +1,7 @@
 = AOM Aplicacions Ofimàtiques i Multimèdia, Diari de Classe
 Jaume Barceló Vicens
 
-=== 20180924
+=== 20180924 Dilluns
 
 * Presentació del professor
 * Llista i presentació dels alumnes
@@ -10,6 +10,13 @@ Jaume Barceló Vicens
   - Què heu estudiat i on
   - Per què us agrada la informàtica
   - Què sabeu d'aplicacions ofimàtiques i multimèdia
+
+=== 20180925 Dimarts
+
 * Activitat avançada: Crear un document conjunt que reculli tota la informació parlada a classe.
 * Activitat avançada 2: Incloure una foto de cadascú en el document.
+* Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions ofimátiques i posant exemples. Comparau les suites de MS Office i Libre Office. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
 
+=== 20180926 Dimecres
+
+* Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions multimèdia i posant exemples. Comparau les solucions privatives i de codi lliure. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
