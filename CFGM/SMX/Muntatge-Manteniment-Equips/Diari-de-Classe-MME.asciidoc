@@ -1,0 +1,13 @@
+= MME Muntatge i Manteniment d'Equips, Diari de Classe
+Jaume Barceló Vicens
+
+=== 20180926 Dimecres
+
+* Presentació del professor
+* Llista i presentació dels alumnes
+  - D'on sou
+  - On viviu
+  - Què heu estudiat i on
+  - Per què us agrada la informàtica
+  - Què sabeu de muntatge i manteniment d'equips
+
