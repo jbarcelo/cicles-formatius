@@ -10,4 +10,5 @@ Jaume Barceló Vicens
   - Què heu estudiat i on
   - Per què us agrada la informàtica
   - Què sabeu de muntatge i manteniment d'equips
-
+* En grups de 4 o 5, preparau un document que descrigui els elements més importants d'un ordinador. Incloeu exemples de marques i models.
+* Passar els cables pels orificis de les taules.
