@@ -16,9 +16,10 @@ Jaume Barceló Vicens
 * Material de l'Institut Obert de Catalunya https://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M03/web/html/material_paper.html
 * Activitat avançada: Crear un document conjunt que reculli tota la informació de presentació parlada a classe.
 * Activitat avançada 2: Incloure una foto de cadascú en el document.
-* Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions ofimátiques i posant exemples. Comparau les suites de MS Office i Libre Office. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
+* Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions ofimàtiques i posant exemples. Comparau les suites de MS Office, Libre Office i G-Suite. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
 * Quanta gent fa servir MS Office? Libre Office? G-Suite?
 
 === 20180926 Dimecres
 
+* Continuar el treball iniciat a la classe anterior.
 * Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions multimèdia i posant exemples. Comparau les solucions privatives i de codi lliure. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
