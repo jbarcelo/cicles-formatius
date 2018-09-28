@@ -21,5 +21,19 @@ Jaume Barceló Vicens
 
 === 20180926 Dimecres
 
+* Teoria de l'IOC
 * Continuar el treball iniciat a la classe anterior.
+
+=== 20181001 Dilluns
+
+* GIMP
+* Fer un marc per una foto amb una màscara ràpida. https://www.gimp.org/tutorials/Quickmask/
+
+=== 20181002 Dimarts
+
+* Teoria de l'IOC. Actualitzacions.
+* Continuar el treball iniciat a la classe anterior.
+
+=== Futur inderterminat
+
 * Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions multimèdia i posant exemples. Comparau les solucions privatives i de codi lliure. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
