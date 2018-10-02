@@ -31,8 +31,10 @@ Jaume Barceló Vicens
 
 === 20181002 Dimarts
 
+* Neteja d'aula.
+* Estrenam google class.
 * Teoria de l'IOC. Actualitzacions.
-* Continuar el treball iniciat a la classe anterior.
+* Presentacions.
 
 === Futur inderterminat
 
