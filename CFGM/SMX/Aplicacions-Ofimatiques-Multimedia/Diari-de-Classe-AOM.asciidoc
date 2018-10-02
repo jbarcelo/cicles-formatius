@@ -33,6 +33,7 @@ Jaume Barceló Vicens
 
 * Neteja d'aula.
 * Estrenam google class.
+* Prova dijous 11
 * Teoria de l'IOC. Actualitzacions.
 * Presentacions.
 
