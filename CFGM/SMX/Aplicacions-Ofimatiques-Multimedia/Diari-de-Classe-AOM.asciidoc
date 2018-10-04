@@ -42,6 +42,12 @@ Jaume Barceló Vicens
 * Teoria IOC
 * Presentacions
 
+=== 20181004 Dijous
+
+* Actualitzar fotos classroom
+* Teoria IOC
+* Presentacions
+
 === Futur inderterminat
 
 * Treballeu en grups de 5. Prepareu un petit treball explicant que són les aplicacions multimèdia i posant exemples. Comparau les solucions privatives i de codi lliure. Elegiu una aplicació i explicau-la amb detall. Coordinau els diferents grups perquè cada grup elegeixi una aplicació diferent. Preparau una breu presentació (10 minuts) del vostre treball.
