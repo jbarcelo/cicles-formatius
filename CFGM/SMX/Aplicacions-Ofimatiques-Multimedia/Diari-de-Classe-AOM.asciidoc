@@ -53,9 +53,22 @@ Jaume Barceló Vicens
 * Teoria IOC
 * Presentacions
 
-=== 20181009
+=== 20181009 Dimarts
 
 * GIMP 9 filtres
+
+=== 20181010 Dimecres
+
+* No s'avança ja que la majoria d'alumnes no assisteixen a causa de la torrentada.
+
+=== 20181011 Dijous
+
+* Teoria
+
+=== 20181015 Dilluns
+
+* Acabar teoria
+* Estudiar i resolució de dubtes.
 
 === Futur inderterminat
 
